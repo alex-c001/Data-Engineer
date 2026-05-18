@@ -1,6 +1,6 @@
-PWD /home/alexandru/Dokumente/Arbeit/Anschreiben/Data Science/Data Engineer/yaac-another-awesome-cv
+PWD /home/alexandru/Dokumente/Arbeit/Anschreiben/Junior/Data Engineer
 INPUT /var/lib/texmf/web2c/luahbtex/lualatex.fmt
-INPUT /home/alexandru/Dokumente/Arbeit/Anschreiben/Data Science/Data Engineer/yaac-another-awesome-cv/cv.tex
+INPUT /home/alexandru/Dokumente/Arbeit/Anschreiben/Junior/Data Engineer/cv.tex
 OUTPUT cv.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tex-ini-files/lualatexquotejobname.lua
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ltluatex.lua
