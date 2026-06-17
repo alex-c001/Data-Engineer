@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1780310591.06501 "/home/alexandru/Dokumente/Arbeit/Anschreiben/Junior/Data Engineer/cv.tex" "cv.pdf" "cv" 1780310596.26358 0
+["lualatex"] 1781685579.06395 "/home/alexandru/Dokumente/Arbeit/Anschreiben/Junior/Data Engineer/cv.tex" "cv.pdf" "cv" 1781685581.62795 0
   "/etc/fonts/conf.d/10-hinting-slight.conf" 1711846774 620 5da52d777c5af2cb4b7445b81ead6c3d ""
   "/etc/fonts/conf.d/10-scale-bitmap-fonts.conf" 1711846774 2068 8588f87eaf68a1eb73920066f6817b48 ""
   "/etc/fonts/conf.d/10-sub-pixel-rgb.conf" 1711846774 672 e58e3be3a96cfa19b6cc53f27845e65a ""
@@ -92,7 +92,7 @@
   "/home/alexandru/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-lightit.luc" 1776245628.32339 186095 53ac84d08b23c108aff947768b345484 ""
   "/home/alexandru/.texlive2023/texmf-var/luatex-cache/generic/fonts/otl/sourcesanspro-regular.luc" 1776245627.9514 581035 6234b67a17959ee2c9a9dc8d8c8e4064 ""
   "/home/alexandru/.texlive2023/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1780310421.61159 447833 9b051e646871d9d90de15be94e744d40 ""
-  "/home/alexandru/Dokumente/Arbeit/Anschreiben/Junior/Data Engineer/cv.tex" 1780310572.71348 1130 e329675d0aadba91bac68cc838b2646d ""
+  "/home/alexandru/Dokumente/Arbeit/Anschreiben/Junior/Data Engineer/cv.tex" 1781685457.20259 1119 a449b63302293f6e5a5338b9e41627fa ""
   "/usr/share/texlive/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Brands-Regular-400.otf" 1651520503 183524 4e4e091c8163681db1b0891d5ece3926 ""
   "/usr/share/texlive/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Regular-400.otf" 1651520503 55256 441b46536e1b8be6369a5ec2d672a8e6 ""
   "/usr/share/texlive/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf" 1651520503 303808 739de9ca58fff4c828629df35cb81f89 ""
@@ -324,15 +324,15 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1771758391.46358 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/tex/generic/config/language.dat" 1771758394.03952 5334 f07ec1c0f33e068ed63f4a776f254914 ""
   "/var/lib/texmf/web2c/luahbtex/lualatex.fmt" 1771758422 12237789 c70dcc1044c85f7321595fe5557e5651 ""
-  "cv.aux" 1780310595.78415 1416 694c4f5432775077c9e01445eefc8b77 "lualatex"
-  "cv.out" 1780310595.78615 564 ba72654cc6881bdb148029f4c4277abc "lualatex"
-  "cv.tex" 1780310572.71348 1130 e329675d0aadba91bac68cc838b2646d ""
+  "cv.aux" 1781685581.38904 1416 694c4f5432775077c9e01445eefc8b77 "lualatex"
+  "cv.out" 1781685581.39104 564 ba72654cc6881bdb148029f4c4277abc "lualatex"
+  "cv.tex" 1781685457.20259 1119 a449b63302293f6e5a5338b9e41627fa ""
   "fonts/SourceSansPro-Light.otf" 1662426860 226032 779f3bf41b852b5582d41cd866ca3ddc ""
   "fonts/SourceSansPro-Regular.otf" 1662426860 229588 5e1d162e634a102d7da8db597825a764 ""
-  "nice_clothes_cut.png" 1776240887.18736 5773810 dcfdc307ab4d49c36fec075e6a723938 ""
-  "section_bildung.tex" 1780310447.92323 1819 0644d5ab38f2c374d6aa83657240b240 ""
-  "section_experience_short.tex" 1780309845.4289 2301 3928f9d709233bfb24181d1758359786 ""
-  "section_skills.tex" 1780309685.03256 501 c89870ad0f0de924f56ff581d4bc755a ""
+  "foto.jpeg" 1781685566.0532 757811 a1019681f1b6b38e0293ea11d7921257 ""
+  "section_bildung.tex" 1781685408.12635 1868 00e5d023f169d3099b5d0f41cd643d46 ""
+  "section_experience_short.tex" 1781685408.18135 2137 c029715fee9787fa6c8969d5f1dd0fcb ""
+  "section_skills.tex" 1781685408.22335 522 5fc2087a846b6c674cf9d977959f02e2 ""
   "section_sprachen.tex" 1778245825.56283 375 752937ce91eac37834233606d98f1ccf ""
   "yaac-another-awesome-cv.cls" 1778248036.39179 15349 f00b96873a9867693b084b0c43d5bade ""
   (generated)

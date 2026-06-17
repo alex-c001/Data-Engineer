@@ -342,8 +342,8 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr5.tfm
-INPUT ./nice_clothes_cut.png
-INPUT ./nice_clothes_cut.png
+INPUT ./foto.jpeg
+INPUT ./foto.jpeg
 INPUT ./section_bildung.tex
 INPUT ./section_experience_short.tex
 INPUT ./section_skills.tex
