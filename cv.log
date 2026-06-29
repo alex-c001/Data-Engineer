@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2026.2.22)  28 JUN 2026 19:57
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2026.2.22)  29 JUN 2026 10:08
  system commands enabled.
  file:line:error style messages enabled.
 **"/home/alexandru/Dokumente/Arbeit/Anschreiben/Junior/Data Engineer/cv.tex"
@@ -943,12 +943,12 @@ Overfull \hbox (18.7095pt too wide) in alignment at lines 3--25
  []
 
 ) (./section_experience_short.tex
-Overfull \hbox (18.7095pt too wide) in alignment at lines 2--35
+Overfull \hbox (18.7095pt too wide) in alignment at lines 2--36
  [][] 
  []
 
 ) (./section_skills.tex
-Overfull \hbox (79.67766pt too wide) in alignment at lines 2--7
+Overfull \hbox (36.8576pt too wide) in alignment at lines 2--7
  [][] 
  []
 
@@ -965,20 +965,20 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: BA72654CC6881BDB148029F4C4277ABC;564.
+(rerunfilecheck)             Checksum: 50A547C0DF541F3E583F8524C93F0802;410.
 )
 
 Here is how much of LuaTeX's memory you used:
- 32278 strings out of 476553
- 244330,1977958 words of node,token memory allocated
+ 32268 strings out of 476553
+ 244339,1977958 words of node,token memory allocated
  711 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 8 glue, 3 kern, 1 penalty, 2 glyph, 61 attribute, 71 glue_spec, 10 attribute_list, 2 write nodes
-   avail lists: 1:7,2:20453,3:4623,4:340,5:2354,6:187,7:16074,8:3,9:2743,10:10,11:1518
- 53506 multiletter control sequences out of 65536+600000
+   avail lists: 1:4,2:19741,3:4431,4:346,5:2378,6:190,7:15918,8:2,9:2698,10:11,11:1290
+ 53496 multiletter control sequences out of 65536+600000
  50 fonts using 7620007 bytes
  117i,14n,114p,1258b,1113s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Regular-400.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Free-Solid-900.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/fontawesome5/FontAwesome5Brands-Regular-400.otf><./fonts/SourceSansPro-Regular.otf><./fonts/SourceSansPro-Light.otf>
-Output written on cv.pdf (1 page, 789490 bytes).
+Output written on cv.pdf (1 page, 789197 bytes).
 
 PDF statistics: 82 PDF objects out of 1000 (max. 8388607)
  62 compressed objects within 1 object stream
