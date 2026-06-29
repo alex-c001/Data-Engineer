@@ -1,27 +1,33 @@
 \documentclass[localFont,alternative,10pt,compact]{yaac-another-awesome-cv}
+
+\geometry{bottom=0.8cm}
+
 \name{Alexandru}{Cozma}
+
 \tagline{Data Engineer}
-\personaldescription{Data Engineer mit Erfahrung im gesamten Data-Science-Prozess -- von der Datenexploration über die Modellierung bis zur Produktivsetzung von KI-Lösungen. Sicher in Python und SQL, in der Integration heterogener Datenquellen und im Aufbau konsistenter Datenarchitekturen. Vertraut mit modernen Entwicklungspraktiken (Docker, Git, CI/CD) und neugierig auf neue technologische Trends.}
+
+\personaldescription{Data Engineer mit Erfahrung im Aufbau robuster Datenpipelines und der Integration heterogener Datenquellen. Sicher in Python, SQL und PySpark, vertraut mit CI/CD und automatisiertem Testing, neugierig auf neue Technologien wie MLflow und Delta Lake.}
+
 \photo{4cm}{foto.jpeg}
+
 \socialinfo{
-	\linkedin{Alexandru Cozma}
-	\smartphone{+49 157 81770036}
-	\email{alex.czma@proton.me}\\
-	\address{Amalienstraße 77, 76133 Karlsruhe, Deutschland}
+\linkedin{Alexandru Cozma}
+\smartphone{+49 157 81770036}
+\email{alex.czma@proton.me}\\
+\address{Amalienstraße 77, 76133 Karlsruhe, Deutschland}
 }
 
 \begin{document}
 
-	\makecvheader
+\makecvheader
+\makecvfooter
+{\textsc{\selectlanguage{english}\today}}
+{\textsc{Alexandru Cozma - CV}}
+{\thepage}
 
-	\makecvfooter
-		{\textsc{\selectlanguage{english}\today}} 
-		{\textsc{Alexandru Cozma - CV}}
-		{\thepage}
-
-	\input{section_bildung}             % Education
-	\input{section_experience_short}    % Experience
-	\input{section_skills}              % Skills
-	\input{section_sprachen}            % Languages
+\input{section_bildung} % Education
+\input{section_experience_short} % Experience
+\input{section_skills} % Skills
+\input{section_sprachen} % Languages
 
 \end{document}
